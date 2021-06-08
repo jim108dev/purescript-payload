@@ -20,6 +20,6 @@
     "purescript-psa": "0.8.2",
     "rimraf": "3.0.2",
     "spago": "0.19.1",
-    "xhr2": "https://github.com/hoodunit/node-xhr2.git#6f65a6557706842b7284191f15ec9afaba270909"
+    "xhr2": "github:hoodunit/node-xhr2#6f65a6557706842b7284191f15ec9afaba270909"
   }
 }
